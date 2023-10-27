@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Ghzahe
-- 👀 I’m interested in DataScientist, Python, SQL, 
+- 👀 I’m interested in DataScientist, Python, SQL, AI
 - 🌱 I’m currently studying Datascientist
 - 💞️ I’m looking to collaborate on  ....
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ghenwazaher/)
